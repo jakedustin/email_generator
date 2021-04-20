@@ -1,8 +1,10 @@
-Hi
-,
-This email is to inform you that due to a lack of payment on the part of the customer, we are voiding and cancelling any related contract items for invoice #
-, dated
-, for $
- as part of an overdue invoice scrub requested by finance senior leadership.
+Hi {n},
+This email is to inform you that due to a lack of payment on the part of the
+customer, we are voiding and cancelling invoice
+#{i}, dated {d}, for ${a} as part of an overdue invoice scrub
+requested by finance senior leadership. You will notice that this will
+count against your current quarter QR, as we cannot go back and retroactively
+deduct QR from previous years. We apologize for the inconvenience.
+
 Please feel free to reach out with any questions you have!
 Thanks,
